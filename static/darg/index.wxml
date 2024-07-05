@@ -1,0 +1,5 @@
+<movable-area class="padding text-center bg-grey" style="width:100%;height:500px;" >
+  <movable-view class="radius shadow bg-white" style="width:80%;height:80px;z-index:{{index==moveId?2:1}}" wx:for="{{tabList}}" wx:key="index" x="{{item.x}}" y="{{item.y}}" direction="all"
+    bindchange="moveStatus" bindtouchend='moveEnd' data-moveid="{{index}}">
+    {{item.name}}</movable-view>
+</movable-area>

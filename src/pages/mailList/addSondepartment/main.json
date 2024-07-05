@@ -1,0 +1,29 @@
+{
+  "navigationBarTitleText": "添加子部门",
+  "usingComponents": {
+    "van-search": "/static/vant/search/index",
+    "i-notice-bar":"/static/view/notice-bar/index",
+    "i-row":"/static/view/row/index",
+    "i-col":"/static/view/col/index",
+    "i-badge":"/static/view/badge/index",
+    "i-tabs": "/static/view/tabs/index",
+    "i-tab": "/static/view/tab/index",
+    "i-tab-bar": "/static/view/tab-bar/index",
+    "i-tab-bar-item": "/static/view/tab-bar-item/index",
+    "van-popup":"/static/vant/popup/index",
+    "van-icon":"/static/vant/icon/index",
+    "i-icon":"/static/view/icon/index",
+    "van-nav-bar":"/static/vant/nav-bar/index",
+    "i-divider":"/static/view/divider/index",
+    "van-action-sheet":"/static/vant/action-sheet/index",
+    "van-checkbox":"/static/vant/checkbox/index",
+    "van-index-bar":"/static/vant/index-bar/index",
+    "van-index-anchor":"/static/vant/index-anchor/index",
+    "van-cell":"/static/vant/cell/index",
+    "van-tag":"/static/vant/tag/index",
+    "van-cell-group":"/static/vant/cell-group/index",
+    "van-field":"/static/vant/field/index",
+    "van-switch":"/static/vant/switch/index",
+    "van-button":"/static/vant/button/index"
+  }
+}

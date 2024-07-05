@@ -1,0 +1,337 @@
+{
+    "pages": [
+        "pages/login/main",
+        "pages/messages/main",
+        "pages/work/main",
+        "pages/homeMailList/main",
+        "pages/my/main",
+        "pages/schedule/main",
+        "pages/schedule/newSchedule/main",
+        "pages/schedule/detail/main",
+        "pages/meetingEntry/main",
+        "pages/work/admin/main"
+    ],
+    "subpackages": [{
+            "root": "pages/todoBusiness/",
+            "pages": [
+                "main",
+                "circulate/main",
+                "detail/main",
+                "selectRelation/main",
+                "launch/main",
+                "write/main",
+                "jump/main"
+            ]
+        },
+        {
+            "root": "pages/myFile",
+            "pages": [
+                "mysetting/main",
+                "aboutWe/main",
+                "numberAdmin/main",
+                "qrCode/main",
+                "personalInfo/main",
+                "bindingPhone/main",
+                "replacePhone/main"
+            ]
+        },
+        {
+            "root": "pages/uPan/",
+            "pages": [
+                "main",
+                "child/main"
+            ]
+        }, {
+            "root": "pages/wagesQuery/",
+            "pages": [
+                "main",
+                "detail/main"
+            ]
+        },
+        {
+            "root": "pages/vote/",
+            "pages": [
+                "main",
+                "create/main",
+                "preview/main",
+                "detail/main",
+                "joinDetail/main",
+                "peopleDetail/main"
+            ]
+        },
+        {
+            "root": "pages/email/",
+            "pages": [
+                "main",
+                "inbox/main",
+                "writeMail/main",
+                "detail/main",
+                "moveEmail/main",
+                "newFile/main",
+                "replyEmail/main",
+                "replyDetail/main",
+                "group/main",
+                "searchEmail/main"
+            ]
+        },
+        {
+            "root": "pages/journalism/",
+            "pages": [
+                "main",
+                "detail/main",
+                "releaseNewsTwo/main",
+                "release/main"
+            ]
+        },
+        {
+            "root": "pages/usbDrive/",
+            "pages": [
+                "main",
+                "lately/main",
+                "myFile/main",
+                "myFile/childFile/main",
+                "shareFile/main",
+                "newFolder/main",
+                "attribute/main",
+                "admin/main",
+                "copyUsb/main",
+                "myFile/classFlie/main",
+                "copyFile/main",
+                "myFile/moveFile/main",
+                "myFile/twoMoveFile/main",
+                "shareFile/detail/main",
+                "recycleBin/main"
+            ]
+        },
+        {
+            "root": "pages/clockIn/",
+            "pages": [
+                "main",
+                "detailed/main",
+                "reportForm/main",
+                "newClockInGroup/main",
+                "patchcardApply/main",
+                "patchcardApply/record/main",
+                "patchcardApply/record/detail/main",
+                "patchcardApply/record/detail/comment/main",
+                "leaveApply/main",
+                "monthly/main",
+                "mapList/main",
+                "seniorSetting/main",
+                "monthTotalDetail/main"
+            ]
+        },
+        {
+            "root": "pages/conferenceRoom/",
+            "pages": [
+                "main",
+                "detail/main",
+                "appointment/main",
+                "appointment/remarks/main",
+                "create/main",
+                "approvalDetail/main"
+            ]
+        },
+        {
+            "root": "pages/mailList",
+            "pages": [
+                "add/main",
+                "staffOut/main",
+                "organization/main",
+                "addSondepartment/main",
+                "selectSuperior/main",
+                "cardInfo/main",
+                "myGroup/main",
+                "contacts/main",
+                "PublicSearch/main"
+            ]
+        },
+        {
+            "root": "pages/meeting",
+            "pages": [
+                "main",
+                "add/main",
+                "detail/main",
+                "signin/main",
+                "signinDetail/main",
+                "joinDetail/main",
+                "newSummary/main",
+                "summaryDetail/main",
+                "receiver/main",
+                "notice/main",
+                "signResult/main"
+            ]
+        },
+        {
+            "root": "pages/publics",
+            "pages": [
+                "contacts/main",
+                "mailList/main",
+                "myGroup/main",
+                "Organization/main",
+                "organizer/main",
+                "pubGroup/main",
+                "pubGroup/group/main",
+                "pubGroup/department/main",
+                "createGroup/main",
+                "externalMailList/main",
+                "add_user/main"
+            ]
+        },
+        {
+            "root": "pages/approval",
+            "pages": [
+                "main",
+                "my/main",
+                "circulation/main",
+                "launch/main",
+                "add/main",
+                "process/main",
+                "preAdd/main",
+                "search/main"
+            ]
+        },
+        {
+            "root": "pages/questionnaire",
+            "pages": [
+                "main",
+                "detail/main",
+                "preview/main",
+                "surveyPeople/main"
+            ]
+        },
+        {
+            "root": "pages/workNotice",
+            "pages": [
+                "main"
+            ]
+        },
+        {
+            "root": "pages/community",
+            "pages": [
+                "main",
+                "sendDynamic/main",
+                "detail/main"
+            ]
+        },
+        {
+            "root": "pages/hr",
+            "pages": [
+                "Business/main",
+                "overTimeApply/main",
+                "personnelFiles/main",
+                "holidayAccount/main",
+                "businesstravel/main",
+                "goOut/main",
+                "weRunData/main",
+                "detail/main",
+                "deptTransfer/main"
+            ]
+        },
+        {
+            "root":"pages/journalModule",
+            "pages":[
+                "main",
+                "writeJournal/main",
+                "detail/main"
+            ]
+        },
+        {
+            "root":"pages/signIn",
+            "pages":[
+                "main",
+                "fillIn/main",
+                "signSetting/main"
+            ]
+        },
+        {
+            "root":"pages/personnelFiles",
+            "pages":[
+                "main",
+                "classification/main",
+                "detail/main"
+            ]
+        },
+        {
+            "root":"pages/scheduling",
+            "pages":[
+                "main",
+                "departScheduling/main",
+                "departScheduling/delMailList/main",
+                "shift/main",
+                "shift/add_shift/main",
+                "administrator/main",
+                "shift_setting/main",
+                "shift_setting/pattern/main",
+                "shift_setting/phoneRemind/main",
+                "shift_setting/vacationType/main"
+            ]
+        },
+        {
+            "root":"pages/human",
+            "pages":[
+                "main",
+                "employeeRoster/main",
+                "personnelEntry/main",
+                "employeeRoster/detail/main"
+            ]
+        },
+        {
+            "root":"pages/task",
+            "pages":[
+                "main",
+                "create_task/main",
+                "detail_task/main",
+                "panel_task/main"
+            ]
+        }
+    ],
+    "permission": {
+        "scope.userLocation": {
+            "desc": "你的位置信息将用于小程序位置接口的效果展示"
+        }
+    },
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "WeChat",
+        "navigationBarTextStyle": "black"
+    },
+    "networkTimeout": {
+        "request": 30000
+    },
+    "tabBar": {
+        "color": "#999",
+        "backgroundColor": "#fafafa",
+        "selectedColor": "#3399ff",
+        "borderStyle": "white",
+
+        "list": [{
+            "text": "消息",
+            "pagePath": "pages/messages/main",
+            "iconPath": "static/tabs/02.Messages.png",
+            "selectedIconPath": "static/tabs/02.Messages_1.png"
+        }, {
+            "text": "日程",
+            "pagePath": "pages/schedule/main",
+            "iconPath": "static/tabs/02.Programme.png",
+            "selectedIconPath": "static/tabs/02.Programme_1.png"
+        }, {
+            "text": "工作台",
+            "pagePath": "pages/work/main",
+            "iconPath": "static/tabs/02.Work.png",
+            "selectedIconPath": "static/tabs/02.Work_1.png"
+        }, {
+            "text": "通讯录",
+            "pagePath": "pages/homeMailList/main",
+            "iconPath": "static/tabs/02.Address.png",
+            "selectedIconPath": "static/tabs/02.Address_1.png"
+        }, {
+            "text": "我的",
+            "pagePath": "pages/my/main",
+            "iconPath": "static/tabs/02.Personal-center.png",
+            "selectedIconPath": "static/tabs/02.Personal-center_1.png"
+        }],
+        "position": "bottom"
+    }
+}

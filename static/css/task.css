@@ -1,0 +1,160 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 1863500 */
+  src: url('//at.alicdn.com/t/font_1863500_pllip07o01q.woff2?t=1650514878478') format('woff2'),
+       url('//at.alicdn.com/t/font_1863500_pllip07o01q.woff?t=1650514878478') format('woff'),
+       url('//at.alicdn.com/t/font_1863500_pllip07o01q.ttf?t=1650514878478') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zan2:before {
+  content: "\e601";
+}
+
+.icon-gengduo:before {
+  content: "\e602";
+}
+
+.icon-fenxiang:before {
+  content: "\e604";
+}
+
+.icon-pinglun:before {
+  content: "\e605";
+}
+
+.icon-wendang:before {
+  content: "\e606";
+}
+
+.icon-tixing:before {
+  content: "\e607";
+}
+
+.icon-canyuren:before {
+  content: "\e603";
+}
+
+.icon-tianjiafujian:before {
+  content: "\e608";
+}
+
+.icon-zirenwu:before {
+  content: "\e609";
+}
+
+.icon-leixing:before {
+  content: "\e610";
+}
+
+.icon-beizhu:before {
+  content: "\e611";
+}
+
+.icon-fenzu:before {
+  content: "\e612";
+}
+
+.icon-zhongfu:before {
+  content: "\e613";
+}
+
+.icon-jiezhi:before {
+  content: "\e614";
+}
+
+.icon-kaishi1:before {
+  content: "\e615";
+}
+
+.icon-zhihangren:before {
+  content: "\e616";
+}
+
+.icon-zhuangtai:before {
+  content: "\e617";
+}
+
+
+.status1style {
+  color: #42526E !important;
+  background-color: #dfe1e6 !important;
+}
+.status1hoverstyle {
+  color: #42526E !important;
+  background-color: #a5adba !important;
+}
+.status2style {
+  color: #0747A6 !important;
+  background-color: #deebff !important;
+}
+.status2hoverstyle {
+  color: #fff !important;
+  background-color: #0052cc !important;
+}
+.status3style {
+  color: #006644 !important;
+  background-color: #e3fcef !important;
+}
+.status3hoverstyle {
+  color: #fff !important;
+  background-color: #00875a !important;
+}
+.statusCategoryId1 {
+  color: #42526E !important;
+  background-color: #dfe1e6 !important;
+}
+.statusCategoryId1 .el-dropdown-link {
+  color: #42526E !important;
+  background-color: #dfe1e6 !important;
+}
+.statusCategoryId1.hover:hover {
+  color: #42526E !important;
+  background-color: #a5adba !important;
+}
+.statusCategoryId1.hover:hover .el-dropdown-link {
+  color: #42526E !important;
+  background-color: #a5adba !important;
+}
+.statusCategoryId2 {
+  color: #0747A6 !important;
+  background-color: #deebff !important;
+}
+.statusCategoryId2 .el-dropdown-link {
+  color: #0747A6 !important;
+  background-color: #deebff !important;
+}
+.statusCategoryId2.hover:hover,
+.statusCategoryId2.deep {
+  color: #fff !important;
+  background-color: #0052cc !important;
+}
+.statusCategoryId2.hover:hover .el-dropdown-link,
+.statusCategoryId2.deep .el-dropdown-link {
+  color: #fff !important;
+  background-color: #0052cc !important;
+}
+.statusCategoryId3 {
+  color: #006644 !important;
+  background-color: #e3fcef !important;
+}
+.statusCategoryId3 .el-dropdown-link {
+  color: #006644 !important;
+  background-color: #e3fcef !important;
+}
+.statusCategoryId3.hover:hover,
+.statusCategoryId3.deep {
+  color: #fff !important;
+  background-color: #00875a !important;
+}
+.statusCategoryId3.hover:hover .el-dropdown-link,
+.statusCategoryId3.deep .el-dropdown-link {
+  color: #fff !important;
+  background-color: #00875a !important;
+}

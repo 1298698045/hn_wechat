@@ -1,0 +1,18 @@
+{
+  "navigationBarTitleText": "优盘",
+  "usingComponents": {
+    "van-search": "/static/vant/search/index",
+    "i-notice-bar":"/static/view/notice-bar/index",
+    "i-row":"/static/view/row/index",
+    "i-col":"/static/view/col/index",
+    "i-badge":"/static/view/badge/index",
+    "i-panel":"/static/view/panel/index",
+    "van-field":"/static/vant/field/index",
+    "i-icon":"/static/view/icon/index",
+    "i-button":"/static/view/button/index",
+    "i-tabs":"/static/view/tabs/index",
+    "i-tab":"/static/view/tab/index",
+    "van-checkbox-group":"/static/vant/checkbox-group/index",
+    "van-checkbox":"/static/vant/checkbox/index"
+  }
+}

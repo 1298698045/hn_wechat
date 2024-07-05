@@ -1,0 +1,8 @@
+{
+    "navigationBarTitleText": "谁可以管理",
+    "usingComponents":{
+      "van-checkbox":"/static/vant/checkbox/index",
+      "van-checkbox-group":"/static/vant/checkbox-group/index"
+    }
+  }
+  

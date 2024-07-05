@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "人员详情",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "van-search": "/static/vant/search/index",
+    "van-icon":"/static/vant/icon/index",
+    "van-cell-group":"/static/vant/cell-group/index",
+    "van-cell":"/static/vant/cell/index"
+  }
+}

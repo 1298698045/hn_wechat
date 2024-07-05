@@ -1,0 +1,8 @@
+{
+    "navigationBarTitleText": "文件夹属性",
+    "usingComponents":{
+      "van-switch":"/static/vant/switch/index",
+      "i-icon":"/static/view/icon/index"
+    }
+  }
+  

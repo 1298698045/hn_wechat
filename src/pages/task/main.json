@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "待办任务",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "i-tab-bar": "/static/view/tab-bar/index",
+    "i-tab-bar-item": "/static/view/tab-bar-item/index",
+    "van-icon": "/static/vant/icon/index",
+    "van-checkbox":"/static/vant/checkbox/index",
+    "i-tabs": "/static/view/tabs/index",
+    "i-tab": "/static/view/tab/index",
+    "van-action-sheet":"/static/vant/action-sheet/index"
+  }
+}

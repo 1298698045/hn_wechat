@@ -1,0 +1,10 @@
+{
+    "navigationBarTitleText": "社区",
+    "enablePullDownRefresh": true,
+    "usingComponents": {
+        "i-icon": "/static/view/icon/index",
+        "van-action-sheet": "/static/vant/action-sheet/index",
+        "van-image":"/static/vant/image/index",
+        "van-divider": "/static/vant/divider/index"
+    }
+}
